@@ -844,7 +844,7 @@ where in the case of `post`you have to specify from which part of the simulation
 
 
 ## APPENDIX: The `icon.job.sh` namelist
-The following is the complete namelist snippet of the `icon.job.sh` used in the test phase. It is not guranateed that is suitable also for your needs.
+The following is the complete namelist snippet of the `icon.job.sh` used in the test phase. It is not guranateed that is suitable also for your needs. This is the version which was used in CMCC cluster CASSANDRA by REHMI division.
 ```
 &parallel_nml
   nproma            =  8
